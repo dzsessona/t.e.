@@ -16,12 +16,15 @@
 | Platform | Title | Link | Comments | Tags                                   |
 |----------|-------|------|----------|----------------------------------------|
 | YouTube | Upwind | https://www.youtube.com/watch?v=MLKMSJTtypU | | kite, sport                                |
-| YouTube | Pale Blue Dot | https://youtu.be/wupToqz1e2g?si=PFwhos-MeFsi48Bs | | documentary                                |
 | YouTube | Max | https://www.youtube.com/watch?v=V-jbGcplKVA | | kite        , sport                           |
 | YouTube | Lewis | https://www.youtube.com/watch?v=Y9FJqBqmUPI | | kite        , sport                           |
 | Red Bull TV | Chapter One | https://www.redbull.tv/en/page/rrn:content:films:93d0fa44-3ccd-51d2-8e3d-c8fb8e8451cf/chapter-one | | kite   , sport                                |
 | YouTube | Searching for Sugar Man | https://www.youtube.com/watch?v=PHfaonlVEfg | Documentary | documentary, music                     |
 | Netflix | Buy Now! | | | documentary                            |
+| YouTube | Koyaanisqatsi | https://youtu.be/ak2GF9IIzWM?si=cOhnp5bD3EbiB56G | | documentary                                |
+| YouTube | Pale Blue Dot | https://youtu.be/wupToqz1e2g?si=PFwhos-MeFsi48Bs | | documentary                                |
+| YouTube | Bobby Fischer Against The World | https://youtu.be/LhO5e1kAvBA?si=-dAV69xBEKDNIZSk | | documentary   |
+| — | Three Colors Trilogy | — | | —                               |
 | Netflix | The Watcher | | | dark, thriller                         |
 | YouTube | Threads | https://www.youtube.com/watch?v=IUmUz8ol9Ow | Dopo di questo se hai coraggio: [link](https://www.youtube.com/watch?v=YHLU0Uej1WA). Guardalo solo da sobria... this is fucking dark Orwell! | dark, sci-deep                         |
 | YouTube | Requiem for a Dream | https://www.youtube.com/watch?v=0nU7dC9bIDg | Top 10, come gli altri film suoi. Solo da sobria please | dark                                   |
