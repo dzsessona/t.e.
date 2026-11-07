@@ -25,6 +25,7 @@
 | YouTube | Pale Blue Dot | https://youtu.be/wupToqz1e2g?si=PFwhos-MeFsi48Bs | | documentary                                |
 | YouTube | Bobby Fischer Against The World | https://youtu.be/LhO5e1kAvBA?si=-dAV69xBEKDNIZSk | | documentary   |
 | — | Three Colors Trilogy | — | | —                               |
+| YouTube | Empire of the sun | https://youtu.be/C0nhfX4j5y0?si=rYDxYk8e6gcfJqry | | drama                              |
 | Netflix | The Watcher | | | dark, thriller                         |
 | YouTube | Threads | https://www.youtube.com/watch?v=IUmUz8ol9Ow | Dopo di questo se hai coraggio: [link](https://www.youtube.com/watch?v=YHLU0Uej1WA). Guardalo solo da sobria... this is fucking dark Orwell! | dark, sci-deep                         |
 | YouTube | Requiem for a Dream | https://www.youtube.com/watch?v=0nU7dC9bIDg | Top 10, come gli altri film suoi. Solo da sobria please | dark                                   |
