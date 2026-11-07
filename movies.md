@@ -16,7 +16,7 @@
 | Platform | Title | Link | Comments | Tags                                   |
 |----------|-------|------|----------|----------------------------------------|
 | YouTube | Upwind | https://www.youtube.com/watch?v=MLKMSJTtypU | | kite, sport                                |
-| YouTube | Pale Blue Dot | [https://www.youtube.com/watch?v=MLKMSJTtypU](https://youtu.be/wupToqz1e2g?si=PFwhos-MeFsi48Bs) | | documentary                                |
+| YouTube | Pale Blue Dot | https://youtu.be/wupToqz1e2g?si=PFwhos-MeFsi48Bs | | documentary                                |
 | YouTube | Max | https://www.youtube.com/watch?v=V-jbGcplKVA | | kite        , sport                           |
 | YouTube | Lewis | https://www.youtube.com/watch?v=Y9FJqBqmUPI | | kite        , sport                           |
 | Red Bull TV | Chapter One | https://www.redbull.tv/en/page/rrn:content:films:93d0fa44-3ccd-51d2-8e3d-c8fb8e8451cf/chapter-one | | kite   , sport                                |
