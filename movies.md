@@ -106,6 +106,16 @@
 
 ---
 
+## OUR MOVIE
+
+| Description | Comments | Tags |
+|-------------|----------|------|
+| Final scene that combines earlier events which take place at the same time/location with a messed-up timeline | | End |
+| Side character who reads friends' updates in a news-style format | | Detail |
+| Anarchy | | Philosophical reflections |
+
+---
+
 ## TODO
 
 - [ ] Move this TODO into a proper one
